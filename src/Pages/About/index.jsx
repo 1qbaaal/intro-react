@@ -13,10 +13,12 @@ export default function About() {
             I am currently student web developer at Purwadhika Digital School.
           </div>
           <div className="flex items-start ">
-            I have completed Fundamental Javascript and now i'm st.
+            I have completed fundamental JavaScript, and now I am learning front-end programming. And next, I will be learning back-end programming.
           </div>
           <div className="flex items-start">
-            Apart from coding, some other activities that I love to do! Playing
+            Apart from coding, some other activities that I love to do!<br/>
+            <ul>
+              </ul>Playing
             Games Writing Tech Blogs Travelling
           </div>
         </div>
