@@ -9,6 +9,7 @@ export default function HomePage() {
         </div>
         <div className="text-violet-400 text-3xl my-3">
           Full Stack kenek trug
+          Logic ayam 🙈🐤
         </div>
       </div>
       <div className="h-[650px] text-white">
