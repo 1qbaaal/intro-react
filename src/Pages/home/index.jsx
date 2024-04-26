@@ -3,12 +3,12 @@ export default function HomePage() {
     <>
       <div className="h-[650px] flex flex-col justify-center items-start">
         <div className="font-bold text-white text-5xl">Hi, There!</div>
-        <div className="flex justify-center items-start">
-          <div className="font-bold text-white text-5xl">I'am </div>
-          <div className="text-violet-400 text-5xl ml-2">Muhammad Iqbal</div>
+        <div className="flex justify-center items-start pt-2">
+          <p className="font-bold text-white text-5xl">I'am </p>
+          <p className="text-violet-400 text-5xl ml-2">Muhammad Iqbal</p>
         </div>
         <div className="text-violet-400 text-3xl my-3">
-          a Web Developer Student at Purwadhika BSD.
+          Full Stack kenek trug
         </div>
       </div>
       <div className="h-[650px] text-white">
